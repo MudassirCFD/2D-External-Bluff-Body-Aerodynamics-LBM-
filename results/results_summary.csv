@@ -1,0 +1,4 @@
+body,mean_Cd,rms_Cl,strouhal_estimate,drag_reduction_vs_square_percent,drag_reduction_vs_circle_percent
+Circle,1.506,0.542,0.21,,
+Square,1.698,0.448,0.174,,
+Droplet,1.181,0.229,0.203,30.5,21.6
