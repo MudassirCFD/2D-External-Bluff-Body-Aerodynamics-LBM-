@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.vcxproj.user
+
+# Raw solver outputs
+circle_snapshots/
+square_snapshots/
+droplet_snapshots/
+circle_snapshots_VALID/
+square_snapshots_VALID/
+droplet_snapshots_VALID/
+*_snapshots/
+snap_*.csv
+*_forces.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
