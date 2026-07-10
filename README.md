@@ -206,13 +206,13 @@ The vorticity plots are more useful than a single drag number because they show 
 
 The Strouhal number links vortex shedding frequency to the body size and inlet speed:
 
-St = f D / U
+St = f D / Uinf
 
 where:
 
 f is the shedding frequency  
 D is the body reference size  
-U is the inlet speed  
+Uinf is the inlet speed  
 
 For bluff body flow, the Strouhal number is a useful check because it tells us whether the wake shedding rate is in a sensible range. Published circular cylinder data can be used later to check this more carefully [4] [5].
 
